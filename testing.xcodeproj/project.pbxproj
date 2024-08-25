@@ -15,6 +15,7 @@
 		BF891BA42C7B9E7C00624C12 /* testingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF891BA32C7B9E7C00624C12 /* testingUITests.swift */; };
 		BF891BA62C7B9E7C00624C12 /* testingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF891BA52C7B9E7C00624C12 /* testingUITestsLaunchTests.swift */; };
 		BF891BB32C7BA05A00624C12 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF891BB22C7BA05A00624C12 /* SwiftUIView.swift */; };
+		BF891BB52C7BA0BC00624C12 /* SwiftUIView2.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF891BB42C7BA0BC00624C12 /* SwiftUIView2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		BF891BA32C7B9E7C00624C12 /* testingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testingUITests.swift; sourceTree = "<group>"; };
 		BF891BA52C7B9E7C00624C12 /* testingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testingUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		BF891BB22C7BA05A00624C12 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		BF891BB42C7BA0BC00624C12 /* SwiftUIView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				BF891B8C2C7B9E7C00624C12 /* Assets.xcassets */,
 				BF891B8E2C7B9E7C00624C12 /* Preview Content */,
 				BF891BB22C7BA05A00624C12 /* SwiftUIView.swift */,
+				BF891BB42C7BA0BC00624C12 /* SwiftUIView2.swift */,
 			);
 			path = testing;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BF891B8B2C7B9E7B00624C12 /* ContentView.swift in Sources */,
+				BF891BB52C7BA0BC00624C12 /* SwiftUIView2.swift in Sources */,
 				BF891B892C7B9E7B00624C12 /* testingApp.swift in Sources */,
 				BF891BB32C7BA05A00624C12 /* SwiftUIView.swift in Sources */,
 			);
