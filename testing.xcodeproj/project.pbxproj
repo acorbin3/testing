@@ -14,6 +14,7 @@
 		BF891B9A2C7B9E7C00624C12 /* testingTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF891B992C7B9E7C00624C12 /* testingTests.swift */; };
 		BF891BA42C7B9E7C00624C12 /* testingUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF891BA32C7B9E7C00624C12 /* testingUITests.swift */; };
 		BF891BA62C7B9E7C00624C12 /* testingUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF891BA52C7B9E7C00624C12 /* testingUITestsLaunchTests.swift */; };
+		BF891BB32C7BA05A00624C12 /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF891BB22C7BA05A00624C12 /* SwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		BF891B9F2C7B9E7C00624C12 /* testingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = testingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF891BA32C7B9E7C00624C12 /* testingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testingUITests.swift; sourceTree = "<group>"; };
 		BF891BA52C7B9E7C00624C12 /* testingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = testingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BF891BB22C7BA05A00624C12 /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 				BF891B8A2C7B9E7B00624C12 /* ContentView.swift */,
 				BF891B8C2C7B9E7C00624C12 /* Assets.xcassets */,
 				BF891B8E2C7B9E7C00624C12 /* Preview Content */,
+				BF891BB22C7BA05A00624C12 /* SwiftUIView.swift */,
 			);
 			path = testing;
 			sourceTree = "<group>";
@@ -259,6 +262,7 @@
 			files = (
 				BF891B8B2C7B9E7B00624C12 /* ContentView.swift in Sources */,
 				BF891B892C7B9E7B00624C12 /* testingApp.swift in Sources */,
+				BF891BB32C7BA05A00624C12 /* SwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
